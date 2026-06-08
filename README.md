@@ -2,7 +2,7 @@
 
 Links de ferramentas que uso para desenvolvimento no meu dia a dia.
 
-### Sistema operacional
+## Sistema operacional
 
 Já testei várias distros como Elementary OS, Ubuntu, Deepin entre outras, mas que mais me agradou e que tive facilidade foi o Linux Mint, pra quem usa Windows e quer migrar para o Linux recomendo muito começar no Mint.
 
